@@ -1,3 +1,5 @@
+**Este repositório é um 'rascunho' de um estudo sobre Next Js do curso no Youtube do Matheus Battisti**
+
 Aprendizados
 - Instalação do projeto: 'npx create-next-app *nome da pasta*'
 - Inicialização do projeto no navegador: 'npm run dev'
